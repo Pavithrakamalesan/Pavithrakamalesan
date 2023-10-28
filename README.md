@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pavi @Pavithrakamalesan
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Flutter,java
+- 🌱 I’m currently learning HTML,java,C
 - 💞️ I’m looking to collaborate on anyone 
-- 📫 How to reach me ...If you want to call me to talk about on leaked documents on the record,here is my number
+- 📫 How to reach me ...If you want to contact me to talk about on leaked documents on the record,here is my e-mailid---->pavisanjay2004@gmail.com
 
 
 <!---
