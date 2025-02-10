@@ -8,7 +8,7 @@
 
 ## 🌟 About Me:
 - 🎓 **B.Tech in Information Technology** - Velalar College of Engineering and Technology (2021-2025)  
-- 💡 Passionate about **Web Development, AI/ML, and Software Engineering**  
+- 💡 Passionate about **Web Development and Software Engineering**  
 - 🌱 Currently learning **React, Full-Stack Development, and MongoDB**  
 - 👩‍💻 Skilled in **Java, C, and Frontend Technologies**  
 - 🌸 Fun Fact: **I enjoy designing, gaming, and exploring new tech trends! 🎮💖**  
@@ -45,6 +45,6 @@
 ---
 
 ## 🚀 Let's Collaborate!
-💬 Open to discussions and collaborations in **Web Development, AI/ML, and Open-Source Projects!** Feel free to connect. ✨  
+💬 Open to discussions and collaborations in **Web Development and Open-Source Projects!** Feel free to connect. ✨  
 
 ---
